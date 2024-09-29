@@ -1,0 +1,9 @@
+DEBUG=True
+
+SECRET_KEY=django-insecure-_las2y#1xxq3me(ic5+o=_b(tnrw))er#-!%y3rwv3-y5j@-$k
+
+DB_NAME=annotations_pgdb
+DB_USER=postgres
+DB_PASSWORD=password
+DB_HOST=localhost
+DB_PORT=5432

@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+*.log
+/media
+/staticfiles
+/static
+
+# Secrets
+*.env
+
+*/migrations/*.py
+*/migrations/*.pyc
+*/migrations/__init__.py
